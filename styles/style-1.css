@@ -20,12 +20,19 @@ ul {
 
 h1 {
   margin: 0;
-  padding: 25px 0;
+  padding: 25px ;
   color: #7DF9FF;
+}
+h1:hover {
   text-shadow: 5px 5px 3px #4285c4;
 }
 
 .done {
   color: darkseagreen;
   text-decoration: line-through solid black 2px;
+}
+
+li:hover {
+    color: #282a33;
+    background-color: #7DF9FF;
 }
