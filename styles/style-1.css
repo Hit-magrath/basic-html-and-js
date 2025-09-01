@@ -1,0 +1,26 @@
+body {
+    margin-left: 10px;
+    background-color: #282a33;
+    font-family: monospace;
+    color: #7DF9FF;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+}
+
+ul {
+    border:2px solid #7DF9FF;
+    padding-top: 20px ;
+    padding-bottom: 20px ;
+    background-color: dimgray;
+}
+
+h1 {
+  margin: 0;
+  padding: 25px 0;
+  color: #7DF9FF;
+  text-shadow: 5px 5px 3px #4285c4;
+}
