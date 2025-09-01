@@ -24,3 +24,8 @@ h1 {
   color: #7DF9FF;
   text-shadow: 5px 5px 3px #4285c4;
 }
+
+.done {
+  color: darkseagreen;
+  text-decoration: line-through solid black 2px;
+}
